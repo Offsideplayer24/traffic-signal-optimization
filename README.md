@@ -69,7 +69,7 @@ traffic-signal-optimization/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/traffic-signal-optimization.git
+git clone https://github.com/Offsideplayer24/traffic-signal-optimization.git
 cd traffic-signal-optimization
 ```
 
