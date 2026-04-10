@@ -114,8 +114,8 @@ ALGORITHM = "dp"      # Options: "greedy" or "dp"
 
 ## 👥 Authors
 
-- **Kaushal Nair** · MS Data Science — [GitHub](https://github.com/<your-username>)
-- **Steve George** · MS Computer Science — [GitHub](https://github.com/<steve-username>)
+- **Kaushal Nair** · MS Data Science
+- **Steve George** · MS Computer Science
 
 ## 📄 License
 
