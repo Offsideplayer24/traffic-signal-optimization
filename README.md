@@ -58,6 +58,7 @@ Uses a rolling-horizon approach. At each decision point, it explores multiple po
 traffic-signal-optimization/
 ├── CS5800_Final_Project_Code_Steve_Kaushal.ipynb   # Full analytical pipeline — all 3 algorithms, metrics, plots
 ├── traffic_simulation_enhanced.py                  # Pygame visual simulation (Greedy & DP)
+├── images/
 ├── LICENSE
 └── README.md
 ```
